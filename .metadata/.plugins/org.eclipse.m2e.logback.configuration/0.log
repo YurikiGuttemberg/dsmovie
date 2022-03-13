@@ -951,3 +951,4 @@ Caused by: java.lang.Exception: File not found: C:\projetos\dsmovies\dsmovie\pom
 2022-03-11 11:45:11,418 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-03-11 11:45:11,423 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-11 11:45:11,424 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projetos\dsmovies\backend\src\test\resources
+2022-03-13 11:47:44,823 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

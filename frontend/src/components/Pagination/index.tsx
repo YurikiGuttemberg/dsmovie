@@ -1,5 +1,9 @@
 import{ReactComponent as Arrow } from 'assets/img/arrow.svg';
+import { MoviePage } from 'types/movie';
 import './styles.css';
+type Props = {
+    page : MoviePage
+}
 function Pagination() {
     return (
         <div className="dsmovie-pagination-container">
